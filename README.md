@@ -15,3 +15,7 @@ The dataset used in this project was provided by this week's cohort instructor V
 - sales: consisting of  3 columns(customer_id, order_date, product_id) and 15 rows of information about customer purchases.
 - menu: consisting of 3 columns(product_id, product_name, price) and 3 rows of information about the diner's choice of food to be served.
 - members: consists of 2 columns(customer_id, join_date) and 2 rows which show us the number of registered customers and the day of their registration.
+## SKILLS DEMONSTRATED
+- Data definition using the CREATE TABLE statement etc.
+- Data manipulation using the SELECT, and INSERT statements.
+- Data querying
