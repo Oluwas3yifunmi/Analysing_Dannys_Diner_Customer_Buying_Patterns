@@ -19,3 +19,8 @@ The dataset used in this project was provided by this week's cohort instructor V
 - Data definition using the CREATE TABLE statement etc.
 - Data manipulation using the SELECT, and INSERT statements.
 - Data querying
+## PROBLEM SOLVING
+### CREATING DATABASE & TABLE
+To begin the process of providing answers to the questions asked by the stakeholder of Danny's diner, I created a database to store the dataset that i will be working with, i then created each table i was supposed to be working with, i was provided with a dataset which shows little of the diner's operation in raw format. I employed my data definition skills using the **CREATE TABLE** statement to create each table and the columns within the table. I ensured the right data type is assigned to each column so as to prevent errors when querying the data. After creating each table, i was able to manipulate the database by using the **INSERT** statement to insert values into each table and also ensure each column had the right data type.
+
+### WHAT IS THE MOST PURCHASED ITEM ON THE MENU AND THE NUMBER OF TIMES IT WAS PURCHASED BY ALL CUSTOMERS?
