@@ -32,4 +32,4 @@ Still using the temporary table created earlier on, in answering this question, 
 
 ### WHAT ITEM WAS FIRST PURCHASED BY EACH CUSTOMER AFTER THEY BECAME A MEMBER OF DANNYS DINER
 ![](6.png)
-I am looking to gather insights from this question regarding the customer's purchase pattern. I utilized my data manipulation skills by using the **SELECT FROM and WHERE** statements. Using the **SELECT** statement, i was able to extract the list of items purchased after each customer becomes a member and i discovered that **Customer A** had an order for ramen on' 2021-01-10 after joining on 2021-01-
+I am looking to gather insights from this question regarding the customer's purchase pattern. I utilized my data manipulation skills by using the **SELECT FROM and WHERE** statements. Using the **SELECT** statement, i was able to extract the list of items purchased after each customer becomes a member and i discovered that **Customer A** had an order for ramen on' 2021-01-10 after joining on 2021-01-07.
