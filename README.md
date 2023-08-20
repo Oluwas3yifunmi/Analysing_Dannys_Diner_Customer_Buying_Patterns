@@ -20,7 +20,10 @@ The dataset used in this project was provided by this week's cohort instructor V
 - Data manipulation using the SELECT, and INSERT statements.
 - Data querying
 ## PROBLEM SOLVING
-### CREATING DATABASE & TABLE
 To begin the process of providing answers to the questions asked by the stakeholder of Danny's diner, I created a database to store the dataset that i will be working with, i then created each table i was supposed to be working with, i was provided with a dataset which shows little of the diner's operation in raw format. I employed my data definition skills using the **CREATE TABLE** statement to create each table and the columns within the table. I ensured the right data type is assigned to each column so as to prevent errors when querying the data. After creating each table, i was able to manipulate the database by using the **INSERT** statement to insert values into each table and also ensure each column had the right data type.
 
 ### WHAT IS THE MOST PURCHASED ITEM ON THE MENU AND THE NUMBER OF TIMES IT WAS PURCHASED BY ALL CUSTOMERS?
+To know the customer's most prefered item on the menu, i created a temporary table by joining the sales table and the menu table together using the **LEFT JOIN** which allowed me to be able to gather insight easily from both tables on the customers' most bought item. I discovered after querying the database that all customers that have visited Danny's diner preferred to buy **RAMEN** making it the most purchased item on the menu bought by customers 8 times compared to other foods on the menu. 
+![](4.png)
+### WHAT ITEM WAS MOST POPULAR FOR EACH CUSTOMER?
+Still using the temporary table created earlier on, in answering this question, the use of data manipulation came into play as i made use of the aggregate function (COUNT) to get the number of time a particular item was stolen. 
