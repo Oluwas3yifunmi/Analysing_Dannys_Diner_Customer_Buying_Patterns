@@ -51,5 +51,5 @@ After doing thorough analysis of Danny's diner, I was able to generatabthe follo
 
 ## RECOMMENDATIONS
 - The diner should incorporate more of **RAMEN** and **SUSHI** into its promotions amd advertisements
-- After on boarding a customer successfully, the diner should employ the cold calling or email marketing to keep customers and members up to date on their services and menus
-- The diner shouldnexpand its customer loyalty program by offering membership discounts upon everysuccessful customer registration.
+- After on boarding a customer successfully, the diner should employ the **cold calling or email marketing** to keep customers and members up to date on their services and menus
+- The diner can expand its customer loyalty program by offering **membership discounts** upon every successful customer registration which will in turn increase the rate of registration of new customers.
