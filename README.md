@@ -36,4 +36,7 @@ I was asked to look into the buying pattern of each customer after they became a
 
 ### WHAT ITEM WAS PURCHSED JUST BEFORE EACH CUSTOMER BECAME A MEMBER
 ![](7.png)
-I decided to look at each customer's preference before they became members of the diner to know what item piqued their interest. This insight would help determine what item the diner should market more to the public to draw in more customer loyalty. To achieve this, I queried the previously created temporary table to display the items ordered where the order date is lesser than the join date and sorted it by the order date. The insight provided showed that the customers ordered **Sushi** just before the became members of the diner, this insight generated shows that customers enjoyed the sushi which served as a form of attraction to bring them to become members of the diner. 
+I decided to look at each customer's preference before they became members of the diner to know what item piqued their interest. This insight would help determine what item the diner should market more to the public to draw in more customer loyalty. To achieve this, I queried the previously created temporary table to display the items ordered where the order date is lesser than the join date and sorted it by the order date. The insight provided showed that the customers ordered **Sushi** just before the became members of the diner, this insight generated shows that customers enjoyed the sushi which served as a form of attraction to bring them to become members of the diner.
+
+### WHAT IS THE TOTAL NUMBER OF ITEMS BOUGHT AND AMOUNT SPENT BY EACH CUSTOMER BEFORE THEY BECAME MEMBERS
+![](8.png)
