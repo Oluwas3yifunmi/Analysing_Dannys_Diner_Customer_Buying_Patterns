@@ -33,3 +33,6 @@ Still using the temporary table created earlier on, in answering this question, 
 ### WHAT ITEM WAS FIRST PURCHASED BY EACH CUSTOMER AFTER THEY BECAME A MEMBER OF DANNYS DINER
 ![](6.png)
 I was asked to look into the buying pattern of each customer after they became a member of the diner. I utilized my data manipulation skills by using the **SELECT FROM and WHERE** statements, using the **SELECT** statement, i was able to extract the list of items purchased after each customer became a member and i discovered that **Customer C** had made purchases also but wasn't a member of the diner, **Customer A** became a member of the diner on 2021-01-07 and afterwards made an order for **Ramen** on 2021-01-10, **Customer B** became a member of the diner on 2021-01-09 and made an order for **Sushi** on 2021-01-11.
+
+### WHAT ITEM WAS PURCHSED JUST BEFORE EACH CUSTOMER BECAME A MEMBER
+![](
