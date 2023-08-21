@@ -36,3 +36,4 @@ I was asked to look into the buying pattern of each customer after they became a
 
 ### WHAT ITEM WAS PURCHSED JUST BEFORE EACH CUSTOMER BECAME A MEMBER
 ![](7.png)
+I decided to look at each customer's preference before they became members of the diner to know what item piqued their interest. This insight would help determine what item the diner should market more to the public to draw in more customer loyalty. To achieve this, 
