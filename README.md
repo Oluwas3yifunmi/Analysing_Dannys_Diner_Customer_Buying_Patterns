@@ -41,3 +41,10 @@ I decided to look at each customer's preference before they became members of th
 ### WHAT IS THE TOTAL NUMBER OF ITEMS BOUGHT AND AMOUNT SPENT BY EACH CUSTOMER BEFORE THEY BECAME MEMBERS
 ![](8.png)
 To generate this insight, i queried the temporary table created to display the customer name, count the total item they bought and sum the amount they spent each where their order date is lesser than the join date. As seen above **Customer B** spent more and bought more items than **Customer A**. Reviewing from our previously generated insight, we can see customer c became bought curry twice before buying sushi which led him to become a member of the diner and customer b also bought curry once before buying sushi which led him to become a member.
+
+## CONCLUSION
+After doing thorough analysis of Danny's diner, I was able to demonstrate adequate use of SQL querying, manipulating and definition languages to extract valuable insights into how Danny's diner can improve its customer experiences. 
+
+## RECOMMENDATIONS
+- The diner should incorporate more of **RAMEN** and **SUSHI** in its promotions amd advertisements
+- 
