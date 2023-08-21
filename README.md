@@ -45,9 +45,11 @@ To generate this insight, i queried the temporary table created to display the c
 ## CONCLUSION
 After doing thorough analysis of Danny's diner, I was able to generatabthe following insights;
 1. Ramen is the most purchased item on the menu
-2. Customers have a minimum of 2 days interval between their first order and the day they join the diner as members
-3. 
+2. Customers leave a minimum of 2 days interval between their first order and the day they join the diner as members
+3. Customers leave a 7 days minimum interval between their last order and first order as members.
+4. Curry is the least bought item on the menu
 
 ## RECOMMENDATIONS
-- The diner should incorporate more of **RAMEN** and **SUSHI** in its promotions amd advertisements
-- 
+- The diner should incorporate more of **RAMEN** and **SUSHI** into its promotions amd advertisements
+- After on boarding a customer successfully, the diner should employ the cold calling or email marketing to keep customers and members up to date on their services and menus
+- The diner shouldnexpand its customer loyalty program by offering membership discounts upon everysuccessful customer registration.
